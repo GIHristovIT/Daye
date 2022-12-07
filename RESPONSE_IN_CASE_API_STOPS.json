@@ -1,0 +1,60 @@
+[
+	{
+		"price": 19,
+		"currency": "GBP",
+		"productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+		"tapons": [
+			{
+				"size": "regular",
+				"coating": "none",
+				"amount": 8
+			},
+			{
+				"size": "regular",
+				"coating": "CBD",
+				"amount": 4
+			}
+		]
+	},
+	{
+		"price": 18,
+		"currency": "GBP",
+		"productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+		"tapons": "<tapons><tampon><size>regular</size><coating>none</coating><amount>10</amount></tampon><tampon><size>regular</size><coating>CBD</coating><amount>2</amount></tampon></tapons>"
+	},
+	{
+		"price": 19,
+		"currency": "GBP",
+		"productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+		"tapons": [
+			{
+				"size": "small",
+				"coating": "none",
+				"amount": 8
+			},
+			{
+				"size": "small",
+				"coating": "CBD",
+				"amount": 4
+			}
+		]
+	},
+	{
+		"price": 18,
+		"currency": "GBP",
+		"productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+		"tampons": "<tapons><tampon><size>small</size><coating>none</coating><amount>10</amount></tampon><tampon><size>small</size><coating>CBD</coating><amount>2</amount></tampon></tapons>"
+	},
+	{
+		"price": 17,
+		"currency": "GBP",
+		"productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+		"tampons": "<tapons><tampon><size>regular</size><coating>none</coating><amount>12</amount></tampon></tapons>"
+	},
+	{
+		"price": 17,
+		"currency": "GBP",
+		"productImage": "https://daye.cdn.prismic.io/daye/ee153f6163435330b18495535217c531300382a8_product2x.png",
+		"tampons": "<tapons><tampon><size>small</size><coating>none</coating><amount>12</amount></tampon></tapons>"
+	}	
+]

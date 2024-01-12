@@ -1,3 +1,6 @@
+It is React project with nice animation elements. 
+There is also heavy transformation of the incoming response data as it is recieved intensiously wrong from the server.
+
 # install @mui/material
 
 npm install @mui/material @emotion/react @emotion/styled
